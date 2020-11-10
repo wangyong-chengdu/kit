@@ -1,4 +1,4 @@
-package cd.wangyong.tool;
+package cd.wangyong.tool.pdf;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -26,7 +26,7 @@ import com.itextpdf.text.pdf.parser.TextExtractionStrategy;
  * @author wangyong
  * @since 2020/5/16
  */
-public class PdfUtils {
+public class PdfUtil {
 
     public static void convertToWordOfText(String srcPath, String pdfFileName) {
         convertToWordOfText(srcPath, pdfFileName, srcPath);
@@ -131,9 +131,5 @@ public class PdfUtils {
         catch (IOException e) {
             e.printStackTrace();
         }
-    }
-
-    public static void main(String[] args) {
-        convertToWordOfText("D:\\��������\\������", "�������Java�������JVM�߼����������ʵ������3�棩(����ԭ����Ʒ)-��־��.pdf");
     }
 }
