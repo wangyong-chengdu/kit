@@ -1,0 +1,16 @@
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskOne
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskTwo
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskThree
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskFour
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskFive
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskSix
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskSeven
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskEight
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskNine
+cd.wangyong.util.test.pipeline.string_append_tasks.TaskTen
+cd.wangyong.util.test.pipeline.increment_tasks.TaskOne
+cd.wangyong.util.test.pipeline.increment_tasks.TaskTwo
+cd.wangyong.util.test.pipeline.increment_tasks.TaskThree
+cd.wangyong.util.test.pipeline.increment_tasks.TaskFour
+cd.wangyong.util.test.pipeline.increment_tasks.TaskFive
+cd.wangyong.util.test.pipeline.increment_tasks.TaskSix
