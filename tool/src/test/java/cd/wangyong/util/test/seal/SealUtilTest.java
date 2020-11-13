@@ -25,8 +25,7 @@ public class SealUtilTest {
         mainFont.setBold(true);
         mainFont.setFontFamily("楷体");
         mainFont.setMarginSize(10);
-        mainFont.setFontText("成都玉盘餐饮管理有限责任公司");
-//        mainFont.setFontText("四川青山长源科技有限公司");
+        mainFont.setFontText("老王茶园餐饮管理有限责任公司");
         mainFont.setFontSize(35);
         mainFont.setFontSpace(32.0);
         // 副文字
@@ -34,7 +33,7 @@ public class SealUtilTest {
         viceFont.setBold(true);
         viceFont.setFontFamily("宋体");
         viceFont.setMarginSize(5);
-        viceFont.setFontText("5101608867801");
+        viceFont.setFontText("5101608867888");
         viceFont.setFontSize(13);
         viceFont.setFontSpace(15.0);
         // 中心文字
@@ -61,7 +60,7 @@ public class SealUtilTest {
 //                .setBorderInnerCircle(borderInnerCycle)
 //                .setInnerCircle(innerCycle)
                 ;
-        SealUtil.buildAndStoreSeal(config, "/home/andy/下载/a/公章22.png");
+        SealUtil.buildAndStoreSeal(config, "/home/andy/下载/a/印章.png");
     }
 
 }
